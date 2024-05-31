@@ -60,7 +60,13 @@ h6,
 .font-weight-normal {
   font-weight: 400 !important;
 }
-
+.subtitle {
+  background-color: #E8D4C6;
+  padding-left: 3%;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  color:white;
+}
 .font-weight-thin {
   font-weight: 100 !important;
 }
